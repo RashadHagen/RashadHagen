@@ -1,4 +1,4 @@
-<h1>Hello, welcome to my IT world! <br/><a href="https://github.com/RashadHagen">Help</a> <a href="https://www.linkedin.com/in/rashadhagen/">Desk</a>
+<h1>Hello, welcome to my IT world! <br/><a href="https://www.linkedin.com/in/rashadhagen/">Help Desk</a>
 
 <h2>💻 Help Desk Projects:</h2>
 
@@ -19,7 +19,10 @@
 
 <h2>⏹️ Certifications</h2>
 
-- [Comptia A+](https://www.comptia.org/certifications/a)
+<a
+  <img src="https://i.imgur.com/lLyQ03Z.png" alt="Comptia A+" width="350px" />
+</a>
+<br>
 
 <h2> 📱 Contact Info:</h2>
 <a href="https://www.linkedin.com/in/rashadhagen/">
