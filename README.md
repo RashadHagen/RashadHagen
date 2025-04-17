@@ -19,8 +19,7 @@
 
 <h2>⏹️ Certifications</h2>
 
-<a
-  <img src="https://i.imgur.com/lLyQ03Z.png" alt="Comptia A+" width="350px" />
+  <img src="https://i.imgur.com/lLyQ03Z.png" alt="Comptia A+" width="150px" />
 </a>
 <br>
 
