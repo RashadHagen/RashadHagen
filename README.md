@@ -12,7 +12,7 @@
 <ul>
   <li><strong style="font-family: Arial, sans-serif; font-size: 16px;">Active Directory</strong>
     <ul style="list-style-type: circle; padding-left: 1.5em;">
-      <li><a href="https://github.com/joshmadakor1/Algorithms-Practice" style="font-family: Verdana, sans-serif; font-size: 14px;">Install AD DS (Active Directory Domain Services)</a></li>
+      <li><a href="https://github.com/RashadHagen/Install-AD-DS-Active-Directory-Domain-Services-/tree/main" style="font-family: Verdana, sans-serif; font-size: 14px;">Install AD DS (Active Directory Domain Services)</a></li>
     </ul>
   </li>
 </ul>
