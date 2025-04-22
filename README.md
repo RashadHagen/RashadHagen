@@ -1,11 +1,13 @@
 <h1>
   <a href="https://www.linkedin.com/in/rashadhagen/">
     <img src="https://i.imgur.com/bYUDnOO.png" alt="LinkedIn" width="42px" />
-  </a> Hello, welcome to my IT world! <br/>
-  <a href="https://www.linkedin.com/in/rashadhagen/">Help Desk</a>
+  </a> 
+  <span style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold;">Hello, welcome to my IT world!</span> 
+  <br/>
+  <a href="https://www.linkedin.com/in/rashadhagen/" style="font-family: Arial, sans-serif; font-size: 18px; font-weight: bold;">Help Desk</a>
 </h1>
 
-<h2>💻 Help Desk Projects:</h2>
+<h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">💻 Help Desk Projects:</h2>
 
 <ul>
   <li><strong style="font-family: Arial, sans-serif; font-size: 16px;">Active Directory</strong>
@@ -16,11 +18,11 @@
 </ul>
 <br>
 
-<h2>⏹️ Certifications</h2>
+<h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">⏹️ Certifications</h2>
 
 <img src="https://i.imgur.com/lLyQ03Z.png" alt="Comptia A+" width="150px" style="margin-bottom: 0.5em;" />
 
-<h2 style="margin-top: 0.5em;"> 📱 Contact Info:</h2>
+<h2 style= "font-family: Arial, sans-serif; font-size: 22px; font-weight: bold; margin-top: 0.5em;"> 📱 Contact Info:</h2>
 <a href="https://www.linkedin.com/in/rashadhagen/">
   <img src="https://i.imgur.com/bYUDnOO.png" alt="LinkedIn" width="42px" />
 </a>
