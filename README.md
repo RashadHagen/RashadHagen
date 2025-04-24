@@ -7,13 +7,14 @@
   <a href="https://www.linkedin.com/in/rashadhagen/" style="font-family: Arial, sans-serif; font-size: 18px; font-weight: bold;">Help Desk</a>
 </h1>
 
-<h2 <a href="https://www.linkedin.com/in/rashadhagen/" style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">💻 Help Desk Projects: Click Here To See Them</h2>
+<br/>
+<h2>
+  <a href="https://www.linkedin.com/in/rashadhagen/" style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">💻 Help Desk Projects: Click Here To See Them
+  <br/><br/>
+    
+  <a href="https://www.linkedin.com/in/rashadhagen/" style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">💻 Cybersecurity Projects: Click Here To See Them
 
-</ul>
-
-<h2 <a href="https://www.linkedin.com/in/rashadhagen/" style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">💻 Cybersecurity Projects: Click Here To See Them</h2>
-
-</ul>
+</h2>
 <br>
 
 <h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">⏹️ Certifications</h2>
