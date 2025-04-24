@@ -10,7 +10,6 @@
 <h2 <a href="https://www.linkedin.com/in/rashadhagen/" style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">💻 Help Desk Projects: Click Here To See Them</h2>
 
 </ul>
-<br>
 
 <h2 <a href="https://www.linkedin.com/in/rashadhagen/" style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">💻 Cybersecurity Projects: Click Here To See Them</h2>
 
