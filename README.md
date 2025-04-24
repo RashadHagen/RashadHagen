@@ -4,7 +4,6 @@
   </a> 
   <span style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold;">Hello, welcome to my IT world!</span> 
   <br/>
-  <a href="https://www.linkedin.com/in/rashadhagen/" style="font-family: Arial, sans-serif; font-size: 18px; font-weight: bold;">Help Desk</a>
 </h1>
 
 <br/>
