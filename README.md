@@ -8,10 +8,10 @@
 
 <br/>
 <h2>
-  <a href="https://github.com/RashadHagen/Help-Desk-Projects" style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">💻 Help Desk Projects: Click Here To See Them
+  <a href="https://github.com/RashadHagen/Help-Desk-Projects" style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">💻 Help Desk Projects: Click Here
   <br/><br/>
     
-  <a href="https://github.com/RashadHagen/Cybersecurity-Projects" style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">💻 Cybersecurity Projects: Click Here To See Them
+  <a href="https://github.com/RashadHagen/Cybersecurity-Projects" style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">💻 Cybersecurity Projects: Click Here
 
 </h2>
 <br>
