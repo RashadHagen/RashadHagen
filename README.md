@@ -17,7 +17,12 @@
 <br>
 
 <h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">⏹️ Certifications</h2>
-<img src="https://i.imgur.com/lLyQ03Z.png" alt="Comptia A+" width="150px" style="margin-bottom: 0.5em;" />
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://i.imgur.com/lLyQ03Z.png" alt="Comptia A+" width="150px" />
+  <img src="https://imgur.com/EMIPDBz.png" alt="Comptia Security+" width="150px" />
+</div>
+
 
 <h2 style= "font-family: Arial, sans-serif; font-size: 22px; font-weight: bold; margin-top: 0.5em;"> 📱 Contact Info:</h2>
 <a href="https://www.linkedin.com/in/rashadhagen/">
