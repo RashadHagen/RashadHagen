@@ -8,7 +8,7 @@
 
 <br/>
 <h2>
-  <a href="https://github.com/RashadHagen/Help-Desk-Projects" style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">💻 Help Desk Projects: Click Here
+  <a href="https://github.com/RashadHagen/Help-Desk-Projects" style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">💻 System Admin / Help Desk Projects: Click Here
   <br/><br/>
     
   <a href="https://github.com/RashadHagen/Microsoft-Projects" style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">💻 Microsoft Cloud Projects: Click Here
